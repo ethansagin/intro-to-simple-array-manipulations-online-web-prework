@@ -14,3 +14,4 @@
 
 #using_insert
 
+#using_uniq
